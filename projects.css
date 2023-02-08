@@ -206,6 +206,15 @@ img{
      font-weight: bold;
   }
 
+.heading2{
+  font-size: 60px;
+  text-align: center;
+  position:relative;
+    top: 50px;
+    font-family: "Trirong", serif;
+   font-weight: bold;
+}
+
 .heading  .project{
     border-radius: 20px;
     position: relative;
